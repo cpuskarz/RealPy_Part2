@@ -9,3 +9,4 @@ cursor.execute("""CREATE TABLE population
             """)
 
 conn.close()
+
